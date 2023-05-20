@@ -1,0 +1,6 @@
+archHexagonal\application\domain\Contact.class
+archHexagonal\adapters\input\web\api\ContactApi.class
+archHexagonal\application\domain\Contact$ContactBuilder.class
+archHexagonal\adapters\input\web\api\request\ContactRequest$ContactRequestBuilder.class
+archHexagonal\adapters\input\web\api\request\ContactRequest.class
+archHexagonal\application\ports\output\IContactRespositoryPort.class
